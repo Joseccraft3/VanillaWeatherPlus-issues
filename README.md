@@ -1,6 +1,6 @@
 # VanillaWeatherPlus - Bug Report
 
-This repository is only the issue tracker for the **Vanilla Weather Plus** mod. No code is uploaded here; it’s just for reporting bugs and suggestions.
+This repository is only the issue tracker for the **Vanilla Weather Plus** mod https://modrinth.com/mod/vanilla-weather-plus. No code is uploaded here; it’s just for reporting bugs and suggestions.
 
 ## How to report a bug
 
